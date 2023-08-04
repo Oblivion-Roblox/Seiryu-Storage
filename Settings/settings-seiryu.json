@@ -4,7 +4,7 @@
     "EXPLOIT": "Seiryu.exe",
     "TARGET_PROCESS": "Windows10Universal.exe",
     "HASHURL": "TBD",
-    "DLLURL": "TBD",
+    "DLLURL": "https://raw.githubusercontent.com/Oblivion-Roblox/Seiryu-Storage/main/Settings/InjectorSettings",
     "PROCESSCHECK": true,
     "HASHCHECK": false,
     "TARGETPROCESSCHECK": true,

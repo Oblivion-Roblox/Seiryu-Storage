@@ -13,6 +13,7 @@
     "WATERMARK": false,
     "DLLS": [
         "fluxus",
+        "oxygen",
         "printsploit"
     ],
     "METHODS": [
